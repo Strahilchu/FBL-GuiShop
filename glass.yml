@@ -1,0 +1,414 @@
+  glass:
+    name: "&2&lSHOP &8&l✦ &7GLASS &0(%page%/2)"
+    size: 54
+    buttons:
+      goBack:
+        slot: 18
+      previousPage:
+        slot: 9
+      nextPage:
+        slot: 27
+    fillItem:
+        material: BLACK_STAINED_GLASS_PANE
+        name: " &r " 
+    items:
+      1:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+      2:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+      3:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+      4:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+      5:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+      6:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+      7:
+        type: item
+        item:
+          material: RED_STAINED_GLASS      
+          quantity: 166
+        buyPrice: 200
+        sellPrice: 200
+        slot: 12
+      8:
+        type: item
+        item:
+          material: ORANGE_STAINED_GLASS      
+          quantity: 166
+        buyPrice: 200
+        sellPrice: 200
+        slot: 13
+      9:
+        type: item
+        item:
+          material: YELLOW_STAINED_GLASS     
+          quantity: 166
+        buyPrice: 200
+        sellPrice: 200
+        slot: 14
+      10:
+        type: item
+        item:
+          material: GREEN_STAINED_GLASS     
+          quantity: 166
+        buyPrice: 200
+        sellPrice: 200
+        slot: 15
+      11:
+        type: item
+        item:
+          material: LIME_STAINED_GLASS      
+          quantity: 166
+        buyPrice: 200
+        sellPrice: 200
+        slot: 16
+      12:
+        type: item
+        item:
+          material: LIGHT_BLUE_STAINED_GLASS      
+          quantity: 166
+        buyPrice: 200
+        sellPrice: 200
+        slot: 21
+      13:
+        type: item
+        item:
+          material: CYAN_STAINED_GLASS      
+          quantity: 166
+        buyPrice: 200
+        sellPrice: 200
+        slot: 22
+      14:
+        type: item
+        item:
+          material: BLUE_STAINED_GLASS      
+          quantity: 166
+        buyPrice: 200
+        sellPrice: 200
+        slot: 23
+      15:
+        type: item
+        item:
+          material: MAGENTA_STAINED_GLASS       
+          quantity: 166
+        buyPrice: 200
+        sellPrice: 200
+        slot: 24
+      16:
+        type: item
+        item:
+          material: PURPLE_STAINED_GLASS        
+          quantity: 166
+        buyPrice: 200
+        sellPrice: 200
+        slot: 25
+      17:
+        type: item
+        item:
+          material: PINK_STAINED_GLASS       
+          quantity: 166
+        buyPrice: 200
+        sellPrice: 200
+        slot: 30
+      18:
+        type: item
+        item:
+          material: WHITE_STAINED_GLASS       
+          quantity: 166
+        buyPrice: 200
+        sellPrice: 200
+        slot: 31
+      19:
+        type: item
+        item:
+          material: LIGHT_GRAY_STAINED_GLASS     
+          quantity: 166
+        buyPrice: 200
+        sellPrice: 200
+        slot: 32
+      20:
+        type: item
+        item:
+          material: GRAY_STAINED_GLASS       
+          quantity: 166
+        buyPrice: 200
+        sellPrice: 200
+        slot: 33
+      21:
+        type: item
+        item:
+          material: BROWN_STAINED_GLASS     
+          quantity: 166
+        buyPrice: 200
+        sellPrice: 200
+        slot: 34
+      22:
+        type: item
+        item:
+          material: BLACK_STAINED_GLASS      
+          quantity: 166
+        buyPrice: 200
+        sellPrice: 200
+        slot: 39
+      45:
+        type: item
+        item:
+          material: GLASS      
+          quantity: 166
+        buyPrice: 200
+        sellPrice: 200
+        slot: 40
+      46:
+        type: item
+        item:
+          material: TINTED_GLASS      
+          quantity: 166
+        buyPrice: 600
+        sellPrice: 200
+        slot: 41
+###PAGE:2
+      23:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+        page: 2
+      24:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+        page: 2
+      25:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+        page: 2
+      26:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+        page: 2
+      27:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+        page: 2
+      28:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+        page: 2
+      29:
+        type: item
+        item:
+          material: RED_STAINED_GLASS_PANE      
+          quantity: 166
+        buyPrice: 166
+        sellPrice: 16
+        slot: 12
+        page: 2
+      30:
+        type: item
+        item:
+          material: ORANGE_STAINED_GLASS_PANE      
+          quantity: 166
+        buyPrice: 166
+        sellPrice: 16
+        slot: 13
+        page: 2
+      31:
+        type: item
+        item:
+          material: YELLOW_STAINED_GLASS_PANE
+          quantity: 166
+        buyPrice: 166
+        sellPrice: 16
+        slot: 14
+        page: 2
+      32:
+        type: item
+        item:
+          material: GREEN_STAINED_GLASS_PANE   
+          quantity: 166
+        buyPrice: 166
+        sellPrice: 16
+        slot: 15
+        page: 2
+      33:
+        type: item
+        item:
+          material: LIME_STAINED_GLASS_PANE    
+          quantity: 166
+        buyPrice: 166
+        sellPrice: 16
+        slot: 16
+        page: 2
+      34:
+        type: item
+        item:
+          material: CYAN_STAINED_GLASS_PANE     
+          quantity: 166
+        buyPrice: 166
+        sellPrice: 16
+        slot: 21
+        page: 2
+      35:
+        type: item
+        item:
+          material: LIGHT_BLUE_STAINED_GLASS_PANE   
+          quantity: 166
+        buyPrice: 166
+        sellPrice: 16
+        slot: 22
+        page: 2
+      36:
+        type: item
+        item:
+          material: BLUE_STAINED_GLASS_PANE  
+          quantity: 166
+        buyPrice: 166
+        sellPrice: 16
+        slot: 23
+        page: 2
+      37:
+        type: item
+        item:
+          material: MAGENTA_STAINED_GLASS_PANE  
+          quantity: 166
+        buyPrice: 166
+        sellPrice: 16
+        slot: 24
+        page: 2
+      38:
+        type: item
+        item:
+          material: PURPLE_STAINED_GLASS_PANE  
+          quantity: 166
+        buyPrice: 166
+        sellPrice: 16
+        slot: 25
+        page: 2
+      39:
+        type: item
+        item:
+          material: PINK_STAINED_GLASS_PANE  
+          quantity: 166
+        buyPrice: 166
+        sellPrice: 16
+        slot: 30
+        page: 2
+      40:
+        type: item
+        item:
+          material: WHITE_STAINED_GLASS_PANE  
+          quantity: 166
+        buyPrice: 166
+        sellPrice: 16
+        slot: 31
+        page: 2
+      41:
+        type: item
+        item:
+          material: LIGHT_GRAY_STAINED_GLASS_PANE  
+          quantity: 166
+        buyPrice: 166
+        sellPrice: 16
+        slot: 32
+        page: 2
+      42:
+        type: item
+        item:
+          material: GRAY_STAINED_GLASS_PANE     
+          quantity: 166
+        buyPrice: 166
+        sellPrice: 16
+        slot: 33
+        page: 2
+      43:
+        type: item
+        item:
+          material: BROWN_STAINED_GLASS_PANE     
+          quantity: 166
+        buyPrice: 166
+        sellPrice: 16
+        slot: 34
+        page: 2
+      44:
+        type: item
+        item:
+          material: BLACK_STAINED_GLASS_PANE     
+          quantity: 166
+        buyPrice: 166
+        sellPrice: 16
+        slot: 39
+        page: 2
+      47:
+        type: item
+        item:
+          material: GLASS_PANE     
+          quantity: 166
+        buyPrice: 166
+        sellPrice: 16
+        slot: 40
+        page: 2

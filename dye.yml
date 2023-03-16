@@ -1,0 +1,191 @@
+  dye:
+    name: "&2&lSHOP &8&l✦ &7Dye &0(%page%/1)"
+    size: 54
+    buttons:
+      goBack:
+        slot: 18
+      previousPage:
+        slot: 9
+      nextPage:
+        slot: 27
+    fillItem:
+        material: BLACK_STAINED_GLASS_PANE
+        name: " &r " 
+    items:
+      1:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+      2:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+      3:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+      4:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+      5:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+      6:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+
+      7:
+        type: item
+        item:
+          material: RED_DYE     
+          quantity: 16
+        buyPrice: 12.5
+        sellPrice: 6
+        slot: 12
+      8:
+        type: item
+        item:
+          material: ORANGE_DYE      
+          quantity: 16
+        buyPrice: 12.5
+        sellPrice: 6
+        slot: 13
+      9:
+        type: item
+        item:
+          material: YELLOW_DYE       
+          quantity: 16
+        buyPrice: 12.5
+        sellPrice: 6
+        slot: 14
+      10:
+        type: item
+        item:
+          material: GREEN_DYE     
+          quantity: 16
+        buyPrice: 12.5
+        sellPrice: 6
+        slot: 15
+      11:
+        type: item
+        item:
+          material: LIME_DYE      
+          quantity: 16
+        buyPrice: 12.5
+        sellPrice: 6
+        slot: 16
+      12:
+        type: item
+        item:
+          material: BLUE_DYE     
+          quantity: 16
+        buyPrice: 12.5
+        sellPrice: 6
+        slot: 21
+      13:
+        type: item
+        item:
+          material: CYAN_DYE      
+          quantity: 16
+        buyPrice: 12.5
+        sellPrice: 6
+        slot: 22
+      14:
+        type: item
+        item:
+          material: LIGHT_BLUE_DYE      
+          quantity: 16
+        buyPrice: 12.5
+        sellPrice: 6
+        slot: 23
+      15:
+        type: item
+        item:
+          material: MAGENTA_DYE     
+          quantity: 16
+        buyPrice: 12.5
+        sellPrice: 6
+        slot: 24
+      16:
+        type: item
+        item:
+          material: PURPLE_DYE      
+          quantity: 16
+        buyPrice: 12.5
+        sellPrice: 6
+        slot: 25
+      17:
+        type: item
+        item:
+          material: PINK_DYE       
+          quantity: 16
+        buyPrice: 12.5
+        sellPrice: 6
+        slot: 30
+      18:
+        type: item
+        item:
+          material: WHITE_DYE   
+          quantity: 16
+        buyPrice: 12.5
+        sellPrice: 6
+        slot: 31
+      19:
+        type: item
+        item:
+          material: LIGHT_GRAY_DYE
+          quantity: 16
+        buyPrice: 12.5
+        sellPrice: 6
+        slot: 32
+      20:
+        type: item
+        item:
+          material: GRAY_DYE     
+          quantity: 16
+        buyPrice: 12.5
+        sellPrice: 6
+        slot: 33
+      21:
+        type: item
+        item:
+          material: BROWN_DYE
+          quantity: 16
+        buyPrice: 12.5
+        sellPrice: 6
+        slot: 34
+      22:
+        type: item
+        item:
+          material: BLACK_DYE     
+          quantity: 16
+        buyPrice: 12.5
+        sellPrice: 6
+        slot: 39

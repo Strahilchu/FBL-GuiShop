@@ -1,0 +1,1135 @@
+  farm:
+    name: "&2&lSHOP &8&l✦ &7Farm &0(%page%/5)"
+    buttons:
+      goBack:
+        slot: 18
+      previousPage:
+        slot: 9
+      nextPage:
+        slot: 27
+    fillItem:
+        material: BLACK_STAINED_GLASS_PANE
+        name: " &r " 
+    items:
+      1:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+      2:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+      3:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+      4:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+      5:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+      6:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+
+      7:
+        type: item
+        item:
+          material: VINE
+          quantity: 4
+        buyPrice: 10
+        sellPrice: 4
+        slot: 12
+      8:
+        type: item
+        item:
+          material: LILY_PAD
+          quantity: 4
+        buyPrice: 10
+        sellPrice: 4
+        slot: 13
+      9:
+        type: item
+        item:
+          material: NETHER_WART
+          quantity: 8
+        buyPrice: 80
+        sellPrice: 8
+        slot: 14
+      10:
+        type: item
+        item:
+          material: WHEAT_SEEDS
+          quantity: 16
+        buyPrice: 16
+        sellPrice: 16
+        slot: 15
+      11:
+        type: item
+        item:
+          material: PUMPKIN_SEEDS
+          quantity: 16
+        buyPrice: 16
+        sellPrice: 16
+        slot: 16
+      12:
+        type: item
+        item:
+          material: MELON_SEEDS
+          quantity: 16
+        buyPrice: 16
+        sellPrice: 16
+        slot: 21
+      13:
+        type: item
+        item:
+          material: COCOA_BEANS 
+          quantity: 16
+        buyPrice: 16
+        sellPrice: 16
+        slot: 22
+      14:
+        type: item
+        item:
+          material: OAK_SAPLING
+          quantity: 8
+        buyPrice: 20
+        sellPrice: 8
+        slot: 23
+      15:
+        type: item
+        item:
+          material: SPRUCE_SAPLING
+          quantity: 8
+        buyPrice: 20
+        sellPrice: 8
+        slot: 24
+      16:
+        type: item
+        item:
+          material: BIRCH_SAPLING
+          quantity: 8
+        buyPrice: 20
+        sellPrice: 8
+        slot: 25
+      17:
+        type: item
+        item:
+          material: JUNGLE_SAPLING
+          quantity: 8
+        buyPrice: 20
+        sellPrice: 8
+        slot: 30
+      18:
+        type: item
+        item:
+          material: ACACIA_SAPLING
+          quantity: 8
+        buyPrice: 20
+        sellPrice: 8
+        slot: 31
+      19:
+        type: item
+        item:
+          material: DARK_OAK_SAPLING
+          quantity: 8
+        buyPrice: 20
+        sellPrice: 8
+        slot: 32
+      20:
+        type: item
+        item:
+          material: MELON_SLICE
+          quantity: 12
+        buyPrice: 12
+        sellPrice: 12
+        slot: 33
+      21:
+        type: item
+        item:
+          material: POTATO
+          quantity: 8
+        buyPrice: 32
+        sellPrice: 16
+        slot: 34
+      22:
+        type: item
+        item:
+          material: MUSHROOM_STEW
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 10
+        slot: 39
+      23:
+        type: item
+        item:
+          material: CARROT
+          quantity: 8
+        buyPrice: 32
+        sellPrice: 16
+        slot: 40
+      24:
+        type: item
+        item:
+          material: WHEAT
+          quantity: 8
+        buyPrice: 32
+        sellPrice: 16
+        slot: 41
+      25:
+        type: item
+        item:
+          material: PUMPKIN 
+          quantity: 4
+        buyPrice: 40
+        sellPrice: 8
+        slot: 42
+      26:
+        type: item
+        item:
+          material: MELON
+          quantity: 4
+        buyPrice: 40
+        sellPrice: 8
+        slot: 43
+##PAGE:2
+      27:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+        page: 2
+      28:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+        page: 2
+      29:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+        page: 2
+      30:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+        page: 2
+      31:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+        page: 2
+      32:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+        page: 2
+      33:
+        type: item
+        item:
+          material: SUGAR_CANE
+          quantity: 12
+        buyPrice: 25
+        sellPrice: 24
+        slot: 12
+        page: 2
+      34:
+        type: item
+        item:
+          material: CACTUS
+          quantity: 4
+        buyPrice: 10
+        sellPrice: 8
+        slot: 13
+        page: 2
+      35:
+        type: item
+        item:
+          material: BROWN_MUSHROOM
+          quantity: 6
+        buyPrice: 60
+        sellPrice: 12
+        slot: 14
+        page: 2
+      36:
+        type: item
+        item:
+          material: RED_MUSHROOM
+          quantity: 6
+        buyPrice: 16
+        sellPrice: 12
+        slot: 15
+        page: 2
+      37:
+        type: item
+        item:
+          material: APPLE
+          quantity: 4
+        buyPrice: 12
+        sellPrice: 8
+        slot: 16
+        page: 2
+      38:
+        type: item
+        item:
+          material: GOLDEN_APPLE
+          quantity: 1
+        buyPrice: 200
+        sellPrice: 100
+        slot: 21
+        page: 2
+      39:
+        type: item
+        item:
+          material: ENCHANTED_GOLDEN_APPLE
+          quantity: 1
+        buyPrice: 5000
+        sellPrice: 500
+        slot: 22
+        page: 2
+      40:
+        type: item
+        item:
+          material: COOKIE
+          quantity: 16
+        buyPrice: 36
+        sellPrice: 32
+        slot: 23
+        page: 2
+      41:
+        type: item
+        item:
+          material: CAKE
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 50
+        slot: 24
+        page: 2
+      42:
+        type: item
+        item:
+          material: PUMPKIN_PIE
+          quantity: 4
+        buyPrice: 32
+        sellPrice: 12
+        slot: 25
+        page: 2
+      43:
+        type: item
+        item:
+          material: BREAD
+          quantity: 8
+        buyPrice: 32
+        sellPrice: 16
+        slot: 30
+        page: 2
+      44:
+        type: item
+        item:
+          material: BAKED_POTATO
+          quantity: 4
+        buyPrice: 48
+        sellPrice: 16
+        slot: 31
+        page: 2
+      45:
+        type: item
+        item:
+          material: DANDELION
+          quantity: 8
+        buyPrice: 16
+        sellPrice: 8
+        slot: 32
+        page: 2
+      46:
+        type: item
+        item:
+          material: POPPY
+          quantity: 8
+        buyPrice: 16
+        sellPrice: 8
+        slot: 33
+        page: 2
+      47:
+        type: item
+        item:
+          material: BLUE_ORCHID
+          quantity: 8
+        buyPrice: 16
+        sellPrice: 8
+        slot: 34
+        page: 2
+      48:
+        type: item
+        item:
+          material: ALLIUM
+          quantity: 8
+        buyPrice: 16
+        sellPrice: 8
+        slot: 39
+        page: 2
+      49:
+        type: item
+        item:
+          material: AZURE_BLUET
+          quantity: 8
+        buyPrice: 16
+        sellPrice: 8
+        slot: 40
+        page: 2
+      50:
+        type: item
+        item:
+          material: RED_TULIP
+          quantity: 8
+        buyPrice: 16
+        sellPrice: 8
+        slot: 41
+        page: 2
+      51:
+        type: item
+        item:
+          material: ORANGE_TULIP
+          quantity: 8
+        buyPrice: 16
+        sellPrice: 8
+        slot: 42
+        page: 2
+      52:
+        type: item
+        item:
+          material: WHITE_TULIP
+          quantity: 8
+        buyPrice: 16
+        sellPrice: 8
+        slot: 43
+        page: 2
+##PAGE:3
+      53:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+        page: 3
+      54:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+        page: 3
+      55:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+        page: 3
+      56:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+        page: 3
+      57:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+        page: 3
+      58:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+        page: 3
+      59:
+        type: item
+        item:
+          material: PINK_TULIP
+          quantity: 8
+        buyPrice: 16
+        sellPrice: 8        
+        slot: 12
+        page: 3
+      60:
+        type: item
+        item:
+          material: OXEYE_DAISY
+          quantity: 8
+        buyPrice: 16
+        sellPrice: 8
+        slot: 13
+        page: 3
+      61:
+        type: item
+        item:
+          material: SUNFLOWER
+          quantity: 4
+        buyPrice: 16
+        sellPrice: 4
+        slot: 14
+        page: 3
+      62:
+        type: item
+        item:
+          material: LILAC
+          quantity: 4
+        buyPrice: 8
+        sellPrice: 4
+        slot: 15
+        page: 3
+      63:
+        type: item
+        item:
+          material: TALL_GRASS
+          quantity: 4
+        buyPrice: 8
+        sellPrice: 4
+        slot: 16
+        page: 3
+      64:
+        type: item
+        item:
+          material: LARGE_FERN
+          quantity: 4
+        buyPrice: 8
+        sellPrice: 4
+        slot: 21
+        page: 3
+      65:
+        type: item
+        item:
+          material: ROSE_BUSH
+          quantity: 4
+        buyPrice: 8
+        sellPrice: 6
+        slot: 22
+        page: 3
+      66:
+        type: item
+        item:
+          material: PEONY
+          quantity: 4
+        buyPrice: 8
+        sellPrice: 4
+        slot: 23
+        page: 3
+      67:
+        type: item
+        item:
+          material: DEAD_BUSH
+          quantity: 8
+        buyPrice: 8
+        sellPrice: -1
+        slot: 24
+        page: 3
+      68:
+        type: item
+        item:
+          material: KELP
+          quantity: 12
+        buyPrice: 20
+        sellPrice: 14
+        slot: 25
+        page: 3
+      69:
+        type: item
+        item:
+          material: SCUTE
+          quantity: 4
+        buyPrice: 40
+        sellPrice: 4
+        slot: 30
+        page: 3
+      70:
+        type: item
+        item:
+          material: DRIED_KELP
+          quantity: 8
+        buyPrice: 20
+        sellPrice: 10
+        slot: 31
+        page: 3
+      71:
+        type: item
+        item:
+          material: BEETROOT
+          quantity: 12
+        buyPrice: 16
+        sellPrice: 12
+        slot: 32
+        page: 3        
+      72:
+        type: item
+        item:
+          material: ACACIA_LEAVES
+          quantity: 8
+        buyPrice: 15
+        sellPrice: 10
+        slot: 33
+        page: 3        
+      73:
+        type: item
+        item:
+          material: BIRCH_LEAVES
+          quantity: 8
+        buyPrice: 17.50
+        sellPrice: 10
+        slot: 34
+        page: 3        
+      74:
+        type: item
+        item:
+          material: JUNGLE_LEAVES
+          quantity: 8
+        buyPrice: 17.50
+        sellPrice: 10
+        slot: 39
+        page: 3
+      75:
+        type: item
+        item:
+          material: OAK_LEAVES
+          quantity: 8
+        buyPrice: 17.50
+        sellPrice: 10
+        slot: 40
+        page: 3
+      76:
+        type: item
+        item:
+          material: DARK_OAK_LEAVES
+          quantity: 8
+        buyPrice: 17.50
+        sellPrice: 10
+        slot: 41
+        page: 3
+      77:
+        type: item
+        item:
+          material: SPRUCE_LEAVES
+          quantity: 8
+        buyPrice: 17.50
+        sellPrice: 10
+        slot: 42
+        page: 3        
+      78:
+        type: item
+        item:
+          material: CARVED_PUMPKIN
+          quantity: 4
+        buyPrice: 40
+        sellPrice: 20
+        slot: 43
+        page: 3
+##PAGE:4
+      79:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+        page: 4
+      80:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+        page: 4
+      81:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+        page: 4
+      82:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+        page: 4
+      83:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+        page: 4
+      84:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+        page: 4
+      85:
+        type: item
+        item:
+          material: CHORUS_FLOWER
+          quantity: 4
+        buyPrice: 50
+        sellPrice: 10
+        slot: 12
+        page: 4
+      86:
+        type: item
+        item:
+          material: CHORUS_FRUIT
+          quantity: 12
+        buyPrice: 75
+        sellPrice: 24
+        slot: 13
+        page: 4
+      87:
+        type: item
+        item:
+          material: CHORUS_PLANT
+          quantity: 8
+        buyPrice: 57
+        sellPrice: 16
+        slot: 14
+        page: 4
+      88:
+        type: item
+        item:
+          material: DRIED_KELP_BLOCK
+          quantity: 4
+        buyPrice: 340
+        sellPrice: 24
+        slot: 15
+        page: 4
+      89:
+        type: item
+        item:
+          material: EGG
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 3
+        slot: 16
+        page: 4
+      90:
+        type: item
+        item:
+          material: GLISTERING_MELON_SLICE
+          quantity: 2
+        buyPrice: 20
+        sellPrice: 4
+        slot: 21
+        page: 4
+      91:
+        type: item
+        item:
+          material: GOLDEN_CARROT
+          quantity: 1
+        buyPrice: 60
+        sellPrice: 4
+        slot: 22
+        page: 4
+      92:
+        type: item
+        item:
+          material: HAY_BLOCK
+          quantity: 4
+        buyPrice: 125
+        sellPrice: 16
+        slot: 23
+        page: 4
+      93:
+        type: item
+        item:
+          material: SEA_PICKLE
+          quantity: 8
+        buyPrice: 65
+        sellPrice: 16
+        slot: 24
+        page: 4
+      94:
+        type: item
+        item:
+          material: SEAGRASS
+          quantity: 12
+        buyPrice: 65
+        sellPrice: 16
+        slot: 25
+        page: 4
+      95:
+        type: item
+        item:
+          material: SUGAR
+          quantity: 8
+        buyPrice: 25.65
+        sellPrice: 16
+        slot: 30
+        page: 4
+      96:
+        type: item
+        item:
+          material: BAMBOO
+          quantity: 12
+        buyPrice: 55.85
+        sellPrice: 16
+        slot: 31
+        page: 4
+      97:
+        type: item
+        item:
+          material: WITHER_ROSE
+          quantity: 1
+        buyPrice: 1000
+        sellPrice: 20
+        slot: 32
+        page: 4
+      98:
+        type: item
+        item:
+          material: CORNFLOWER
+          quantity: 8
+        buyPrice: 25.50
+        sellPrice: 16
+        slot: 33
+        page: 4
+      99:
+        type: item
+        item:
+          material: LILY_OF_THE_VALLEY
+          quantity: 8
+        buyPrice: 25.50
+        sellPrice: 16
+        slot: 34
+        page: 4
+      100:
+        type: item
+        item:
+          material: SWEET_BERRIES
+          quantity: 12
+        buyPrice: 45
+        sellPrice: 12
+        slot: 39
+        page: 4
+      101:
+        type: item
+        item:
+          material: BEE_NEST
+          quantity: 2
+        buyPrice: 300
+        sellPrice: 6
+        slot: 41
+        page: 4
+      102:
+        type: item
+        item:
+          material: BEEHIVE
+          quantity: 2
+        buyPrice: 300
+        sellPrice: 6
+        slot: 42
+        page: 4
+      103:
+        type: item
+        item:
+          material: HONEY_BLOCK
+          quantity: 4
+        buyPrice: 100
+        sellPrice: 20
+        slot: 43
+        page: 4
+###PAGE:5
+      104:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+        page: 5
+      105:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+        page: 5
+      106:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+        page: 5
+      107:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+        page: 5
+      108:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+        page: 5
+      109:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+        page: 5
+      110:
+        type: item
+        item:
+          material: HONEY_BOTTLE
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 5
+        slot: 12
+        page: 5
+      111:
+        type: item
+        item:
+          material: HONEYCOMB
+          quantity: 2
+        buyPrice: 50
+        sellPrice: 5
+        slot: 13
+        page: 5
+      112:
+        type: item
+        item:
+          material: HONEYCOMB_BLOCK
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 8
+        slot: 14
+        page: 5
+      113:
+        type: item
+        item:
+          material: AZALEA
+          quantity: 4
+        buyPrice: 40
+        sellPrice: 8
+        slot: 15
+        page: 5
+      114:
+        type: item
+        item:
+          material: FLOWERING_AZALEA
+          quantity: 4
+        buyPrice: 60
+        sellPrice: 5
+        slot: 16
+        page: 5
+      115:
+        type: item
+        item:
+          material: AZALEA_LEAVES
+          quantity: 8
+        buyPrice: 35.50
+        sellPrice: 8
+        slot: 21
+        page: 5
+      116:
+        type: item
+        item:
+          material: FLOWERING_AZALEA_LEAVES
+          quantity: 8
+        buyPrice: 45.60
+        sellPrice: 8
+        slot: 22
+        page: 5
+      117:
+        type: item
+        item:
+          material: GLOW_BERRIES
+          quantity: 12
+        buyPrice: 32
+        sellPrice: 16
+        slot: 23
+        page: 5
+      118:
+        type: item
+        item:
+          material: GLOW_LICHEN
+          quantity: 8
+        buyPrice: 35.90
+        sellPrice: 10
+        slot: 24
+        page: 5
+      119:
+        type: item
+        item:
+          material: BIG_DRIPLEAF
+          quantity: 4
+        buyPrice: 100
+        sellPrice: 8
+        slot: 25
+        page: 5
+      121:
+        type: item
+        item:
+          material: SMALL_DRIPLEAF
+          quantity: 8
+        buyPrice: 50
+        sellPrice: 9
+        slot: 31
+        page: 5
+      122:
+        type: item
+        item:
+          material: HANGING_ROOTS
+          quantity: 4
+        buyPrice: 15
+        sellPrice: 5
+        slot: 32
+        page: 5
+      123:
+        type: item
+        item:
+          material: MOSS_BLOCK
+          quantity: 2
+        buyPrice: 25
+        sellPrice: 4
+        slot: 33
+        page: 5
+      124:
+        type: item
+        item:
+          material: MOSS_CARPET
+          quantity: 4
+        buyPrice: 15.60
+        sellPrice: 4
+        slot: 34
+        page: 5
+      125:
+        type: item
+        item:
+          material: ROOTED_DIRT
+          quantity: 1
+        buyPrice: 8
+        sellPrice: 3
+        slot: 30
+        page: 5
+      126:
+        type: item
+        item:
+          material: SPORE_BLOSSOM
+          quantity: 1
+        buyPrice: 38
+        sellPrice: 5
+        slot: 40
+        page: 5
+      127:
+        type: item
+        item:
+          material: BEETROOT_SEEDS
+          quantity: 64
+        buyPrice: 320
+        sellPrice: 32
+        slot: 40
+        page: 4
+      128:
+        type: item
+        item:
+          material: MANGROVE_PROPAGULE
+          quantity: 8
+        buyPrice: 80
+        sellPrice: 8
+        slot: 48
+        page: 1

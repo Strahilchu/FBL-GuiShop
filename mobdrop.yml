@@ -1,0 +1,394 @@
+  mobdrop:
+    name: "&2&lSHOP &8&l✦ &7MobDrop &0(%page%/2)"
+    size: 54
+    buttons:
+      goBack:
+        slot: 18
+      previousPage:
+        slot: 9
+      nextPage:
+        slot: 27
+    fillItem:
+        material: BLACK_STAINED_GLASS_PANE
+        name: " &r " 
+    items:
+      1:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+      2:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+      3:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+      4:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+      5:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+      6:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+      7:
+        type: item
+        item:
+          material: ROTTEN_FLESH
+          quantity: 4
+        buyPrice: 8
+        sellPrice: 4
+        slot: 12
+      8:
+        type: item
+        item:
+          material: GUNPOWDER
+          quantity: 4
+        buyPrice: 40
+        sellPrice: 8
+        slot: 13
+      9:
+        type: item
+        item:
+          material: ENDER_PEARL
+          quantity: 2
+        buyPrice: 40
+        sellPrice: 8
+        slot: 14
+      10:
+        type: item
+        item:
+          material: SPIDER_EYE
+          quantity: 8
+        buyPrice: 40
+        sellPrice: 12
+        slot: 15
+      11:
+        type: item
+        item:
+          material: STRING
+          quantity: 16
+        buyPrice: 32
+        sellPrice: 18
+        slot: 16
+      12:
+        type: item
+        item:
+          material: ARROW 
+          quantity: 16
+        buyPrice: 64
+        sellPrice: 36
+        slot: 21
+      13:
+        type: item
+        item:
+          material: BONE  
+          quantity: 4
+        buyPrice: 12
+        sellPrice: 10
+        slot: 22
+      14:
+        type: item
+        item:
+          material: SLIME_BALL
+          quantity: 2
+        buyPrice: 100
+        sellPrice: 12
+        slot: 23
+      15:
+        type: item
+        item:
+          material: BLAZE_ROD
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 6
+        slot: 24
+      16:
+        type: item
+        item:
+          material: LEATHER
+          quantity: 4
+        buyPrice: 32
+        sellPrice: 10
+        slot: 25
+      17:
+        type: item
+        item:
+          material: RABBIT_HIDE
+          quantity: 4
+        buyPrice: 32
+        sellPrice: 10
+        slot: 30
+      18:
+        type: item
+        item:
+          material: RABBIT_FOOT
+          quantity: 6
+        buyPrice: 32
+        sellPrice: 14
+        slot: 31
+      19:
+        type: item
+        item:
+          material: FEATHER
+          quantity: 4
+        buyPrice: 12
+        sellPrice: 6
+        slot: 32
+      20:
+        type: item
+        item:
+          material: EGG
+          quantity: 1
+        buyPrice: 40
+        sellPrice: 6
+        slot: 33
+      21:
+        type: item
+        item:
+          material: WHITE_WOOL
+          quantity: 8
+        buyPrice: 80
+        sellPrice: 32
+        slot: 34
+      22:
+        type: item
+        item:
+          material: PRISMARINE_SHARD
+          quantity: 4
+        buyPrice: 125
+        sellPrice: 12
+        slot: 39
+      23:
+        type: item
+        item:
+          material: PRISMARINE_CRYSTALS
+          quantity: 4
+        buyPrice: 187
+        sellPrice: 14
+        slot: 40
+      24:
+        type: item
+        item:
+          material: INK_SAC
+          quantity: 16
+        buyPrice: 105
+        sellPrice: 18
+        slot: 41
+      25:
+        type: item
+        item:
+          material: GHAST_TEAR
+          quantity: 2
+        buyPrice: 8500
+        sellPrice: 200
+        slot: 42
+      26:
+        type: item
+        item:
+          material: PHANTOM_MEMBRANE
+          quantity: 4
+        buyPrice: 40
+        sellPrice: 40
+        slot: 43
+###PAGE:2
+      27:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+        page: 2
+      28:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+        page: 2
+      29:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+        page: 2
+      30:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+        page: 2
+      31:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+        page: 2
+      32:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+        page: 2
+      33:
+        type: item
+        item:
+          material: MAGMA_CREAM
+          quantity: 2
+        buyPrice: 185
+        sellPrice: 6
+        slot: 12
+        page: 2
+      34:
+        type: item
+        item:
+          material: SLIME_BLOCK
+          quantity: 1
+        buyPrice: 900
+        sellPrice: 45
+        slot: 13
+        page: 2
+      35:
+        type: item
+        item:
+          material: SHULKER_SHELL
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 5
+        slot: 14
+        page: 2
+      36:
+        type: item
+        item:
+          material: NETHER_STAR
+          quantity: 1
+        buyPrice: 40000
+        sellPrice: 3000
+        slot: 15
+        page: 2
+      37:
+        type: item
+        item:
+          material: NAUTILUS_SHELL
+          quantity: 1
+        buyPrice: 500
+        sellPrice: 100
+        slot: 16
+        page: 2
+      38:
+        type: item
+        item:
+          material: GOAT_HORN
+          quantity: 1
+        buyPrice: 500
+        sellPrice: 10
+        slot: 21
+        page: 2
+      39:
+        type: item
+        item:
+          material: ECHO_SHARD
+          quantity: 1
+        buyPrice: 200
+        sellPrice: 10
+        slot: 22
+        page: 2
+      40:
+        type: item
+        item:
+          material: AXOLOTL_BUCKET
+          quantity: 1
+        buyPrice: 200
+        sellPrice: 10
+        slot: 23
+        page: 2
+      41:
+        type: item
+        item:
+          material: TADPOLE_BUCKET
+          quantity: 1
+        buyPrice: 200
+        sellPrice: 10
+        slot: 24
+        page: 2
+      42:
+        type: item
+        item:
+          material: PUFFERFISH_BUCKET
+          quantity: 1
+        buyPrice: 200
+        sellPrice: 10
+        slot: 25
+        page: 2
+      43:
+        type: item
+        item:
+          material: SALMON_BUCKET
+          quantity: 1
+        buyPrice: 200
+        sellPrice: 10
+        slot: 30
+        page: 2
+      44:
+        type: item
+        item:
+          material: COD_BUCKET
+          quantity: 1
+        buyPrice: 200
+        sellPrice: 10
+        slot: 31
+        page: 2
+      45:
+        type: item
+        item:
+          material: TROPICAL_FISH_BUCKET
+          quantity: 1
+        buyPrice: 200
+        sellPrice: 10
+        slot: 32
+        page: 2

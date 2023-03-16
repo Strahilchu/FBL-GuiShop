@@ -1,0 +1,828 @@
+equipment:
+  name: "&2&lSHOP &8&l✦ &7Equipment &0(%page%/4)"
+  buttons:
+    goBack:
+      slot: 18
+    previousPage:
+      slot: 9
+    nextPage:
+      slot: 27
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " &r " 
+  items:
+    1:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 1
+    2:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 10
+    3:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 19
+    4:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 28
+    5:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 37
+    6:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 46
+    7:
+      type: item
+      item:
+        material: LEATHER_HELMET
+        quantity: 1
+      buyPrice: 500
+      sellPrice: -1
+      slot: 12
+    700:
+      type: item
+      item:
+        material: SHULKER_BOX
+        quantity: 1
+      buyPrice: 100
+      stacked: true
+      sellPrice: 10
+      slot: 2
+      page: 1
+    8:
+      type: item
+      item:
+        material: LEATHER_CHESTPLATE
+        quantity: 1
+      buyPrice: 500
+      sellPrice: -1
+      slot: 21
+    9:
+      type: item
+      item:
+        material: LEATHER_LEGGINGS
+        quantity: 1
+      buyPrice: 500
+      sellPrice: -1
+      slot: 30
+    10:
+      type: item
+      item:
+        material: LEATHER_BOOTS
+        quantity: 1
+      buyPrice: 500
+      sellPrice: -1
+      slot: 39
+    11:
+      type: item
+      item:
+        material: CHAINMAIL_HELMET
+        quantity: 1
+      buyPrice: 550
+      sellPrice: -1
+      slot: 13
+    12:
+      type: item
+      item:
+        material: CHAINMAIL_CHESTPLATE
+        quantity: 1
+      buyPrice: 550
+      sellPrice: -1
+      slot: 22
+    13:
+      type: item
+      item:
+        material: CHAINMAIL_LEGGINGS
+        quantity: 1
+      buyPrice: 550
+      sellPrice: -1
+      slot: 31
+    14:
+      type: item
+      item:
+        material: CHAINMAIL_BOOTS
+        quantity: 1
+      buyPrice: 550
+      sellPrice: -1
+      slot: 40
+    15:
+      type: item
+      item:
+        material: IRON_HELMET
+        quantity: 1
+      buyPrice: 1500
+      sellPrice: -1
+      slot: 14
+    16:
+      type: item
+      item:
+        material: IRON_CHESTPLATE
+        quantity: 1
+      buyPrice: 1500
+      sellPrice: -1
+      slot: 23
+    17:
+      type: item
+      item:
+        material: IRON_LEGGINGS
+        quantity: 1
+      buyPrice: 1500
+      sellPrice: -1
+      slot: 32
+    18:
+      type: item
+      item:
+        material: IRON_BOOTS
+        quantity: 1
+      buyPrice: 1500
+      sellPrice: -1
+      slot: 41
+    19:
+      type: item
+      item:
+        material: GOLDEN_HELMET
+        quantity: 1
+      buyPrice: 2000
+      sellPrice: -1
+      slot: 15
+    20:
+      type: item
+      item:
+        material: GOLDEN_CHESTPLATE
+        quantity: 1
+      buyPrice: 2000
+      sellPrice: -1
+      slot: 24
+    21:
+      type: item
+      item:
+        material: GOLDEN_LEGGINGS
+        quantity: 1
+      buyPrice: 2000
+      sellPrice: -1
+      slot: 33
+    22:
+      type: item
+      item:
+        material: GOLDEN_BOOTS
+        quantity: 1
+      buyPrice: 2000
+      sellPrice: -1
+      slot: 42
+    23:
+      type: item
+      item:
+        material: DIAMOND_HELMET
+        quantity: 1
+      buyPrice: 15000
+      sellPrice: -1
+      slot: 16
+    24:
+      type: item
+      item:
+        material: DIAMOND_CHESTPLATE
+        quantity: 1
+      buyPrice: 20000
+      sellPrice: -1
+      slot: 25
+    25:
+      type: item
+      item:
+        material: DIAMOND_LEGGINGS
+        quantity: 1
+      buyPrice: 18000
+      sellPrice: -1
+      slot: 34
+    26:
+      type: item
+      item:
+        material: DIAMOND_BOOTS
+        quantity: 1
+      buyPrice: 12500
+      sellPrice: -1
+      slot: 43
+##PAGE:2
+    27:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 1
+      page: 2
+    28:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 10
+      page: 2
+    29:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 19
+      page: 2
+    30:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 28
+      page: 2
+    31:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 37
+      page: 2
+    32:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 46
+      page: 2
+    33:
+      type: item
+      item:
+        material: TURTLE_HELMET
+        quantity: 1
+      buyPrice: 200
+      sellPrice: 100
+      slot: 21
+      page: 2
+    34:
+      type: item
+      item:
+        material: ELYTRA
+        quantity: 1
+      buyPrice: 50000
+      sellPrice: -1
+      slot: 30
+      page: 2
+    35:
+      type: item
+      item:
+        material: WOODEN_SWORD
+        quantity: 1
+      buyPrice: 125
+      sellPrice: -1
+      slot: 14
+      page: 2
+    36:
+      type: item
+      item:
+        material: WOODEN_PICKAXE
+        quantity: 1
+      buyPrice: 130
+      sellPrice: -1
+      slot: 23
+      page: 2
+    37:
+      type: item
+      item:
+        material: WOODEN_AXE
+        quantity: 1
+      buyPrice: 130
+      sellPrice: -1
+      slot: 32
+      page: 2
+    38:
+      type: item
+      item:
+        material: WOODEN_SHOVEL
+        quantity: 1
+      buyPrice: 75
+      sellPrice: -1
+      slot: 41
+      page: 2
+    39:
+      type: item
+      item:
+        material: STONE_SWORD
+        quantity: 1
+      buyPrice: 500
+      sellPrice: -1
+      slot: 15
+      page: 2
+    40:
+      type: item
+      item:
+        material: STONE_PICKAXE
+        quantity: 1
+      buyPrice: 780.75
+      sellPrice: -1
+      slot: 24
+      page: 2
+    41:
+      type: item
+      item:
+        material: STONE_AXE
+        quantity: 1
+      buyPrice: 780.75
+      sellPrice: -1
+      slot: 33
+      page: 2
+    42:
+      type: item
+      item:
+        material: STONE_SHOVEL
+        quantity: 1
+      buyPrice: 345.60
+      sellPrice: -1
+      slot: 42
+      page: 2
+    43:
+      type: item
+      item:
+        material: IRON_SWORD
+        quantity: 1
+      buyPrice: 1250
+      sellPrice: -1
+      slot: 16
+      page: 2
+    44:
+      type: item
+      item:
+        material: IRON_PICKAXE
+        quantity: 1
+      buyPrice: 1700
+      sellPrice: -1
+      slot: 25
+      page: 2
+    45:
+      type: item
+      item:
+        material: IRON_AXE
+        quantity: 1
+      buyPrice: 1700
+      sellPrice: -1
+      slot: 34
+      page: 2
+    46:
+      type: item
+      item:
+        material: IRON_SHOVEL
+        quantity: 1
+      buyPrice: 1250
+      sellPrice: -1
+      slot: 43
+      page: 2
+##PAGE:3
+    47:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 1
+      page: 3
+    48:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 10
+      page: 3
+    49:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 19
+      page: 3
+    50:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 28
+      page: 3
+    51:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 37
+      page: 3
+    52:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 46
+      page: 3
+    53:
+      type: item
+      item:
+        material: GOLDEN_SWORD
+        quantity: 1
+      buyPrice: 850
+      sellPrice: -1
+      slot: 12
+      page: 3
+    54:
+      type: item
+      item:
+        material: GOLDEN_PICKAXE
+        quantity: 1
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 21
+      page: 3
+    55:
+      type: item
+      item:
+        material: GOLDEN_AXE
+        quantity: 1
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 30
+      page: 3
+    56:
+      type: item
+      item:
+        material: GOLDEN_SHOVEL
+        quantity: 1
+      buyPrice: 700
+      sellPrice: -1
+      slot: 39
+      page: 3
+    57:
+      type: item
+      item:
+        material: DIAMOND_SWORD
+        quantity: 1
+      buyPrice: 7500
+      sellPrice: -1
+      slot: 13
+      page: 3
+    58:
+      type: item
+      item:
+        material: DIAMOND_PICKAXE
+        quantity: 1
+      buyPrice: 15000
+      sellPrice: -1
+      slot: 22
+      page: 3
+    59:
+      type: item
+      item:
+        material: DIAMOND_AXE
+        quantity: 1
+      buyPrice: 15000
+      sellPrice: -1
+      slot: 31
+      page: 3
+    60:
+      type: item
+      item:
+        material: DIAMOND_SHOVEL
+        quantity: 1
+      buyPrice: 5000
+      sellPrice: -1
+      slot: 40
+      page: 3
+    61:
+      type: item
+      item:
+        material: BOW
+        quantity: 1
+      buyPrice: 500.75
+      sellPrice: -1
+      slot: 24
+      page: 3
+    62:
+      type: item
+      item:
+        material: ARROW
+        quantity: 16
+      buyPrice: 50
+      sellPrice: -1
+      slot: 33
+      page: 3
+    63:
+      type: item
+      item:
+        material: TRIDENT
+        quantity: 1
+      buyPrice: 2000
+      sellPrice: 50
+      slot: 42
+      page: 3
+    92:
+      type: item
+      item:
+        material: TOTEM_OF_UNDYING
+        quantity: 1
+      buyPrice: 2000
+      sellPrice: 500
+      slot: 15
+      page: 3
+##PAGE:4
+    64:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 1
+      page: 4
+    65:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 10
+      page: 4
+    66:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 19
+      page: 4
+    67:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 28
+      page: 4
+    68:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 37
+      page: 4
+    69:
+      type: DUMMY
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        name: " &r "
+        lore: []
+        quantity: 1
+      slot: 46
+      page: 4
+    70:
+      type: item
+      item:
+        material: FISHING_ROD
+        quantity: 1
+      buyPrice: 50
+      sellPrice: -1
+      slot: 12
+      page: 4
+    71:
+      type: item
+      item:
+        material: COMPASS
+        quantity: 4
+      buyPrice: 20
+      sellPrice: 20
+      slot: 13
+      page: 4
+    72:
+      type: item
+      item:
+        material: CLOCK
+        quantity: 4
+      buyPrice: 20
+      sellPrice: 20
+      slot: 14
+      page: 4
+    73:
+      type: item
+      item:
+        material: SHEARS
+        quantity: 1
+      buyPrice: 100
+      sellPrice: 30
+      slot: 15
+      page: 4
+    74:
+      type: item
+      item:
+        material: BUCKET
+        quantity: 1
+      buyPrice: 100
+      sellPrice: 10
+      slot: 16
+      page: 4
+    75:
+      type: item
+      item:
+        material: FLINT_AND_STEEL
+        quantity: 1
+      buyPrice: 50
+      sellPrice: 20
+      slot: 21
+      page: 4
+    76:
+      type: item
+      item:
+        material: LEAD
+        quantity: 4
+      buyPrice: 20
+      sellPrice: 5
+      slot: 22
+      page: 4
+    77:
+      type: item
+      item:
+        material: SADDLE
+        quantity: 1
+      buyPrice: 100
+      sellPrice: 10
+      slot: 23
+      page: 4
+    78:
+      type: item
+      item:
+        material: LEATHER_HORSE_ARMOR
+        quantity: 1
+      buyPrice: 1000
+      sellPrice: 100
+      slot: 24
+      page: 4
+    79:
+      type: item
+      item:
+        material: IRON_HORSE_ARMOR
+        quantity: 1
+      buyPrice: 2000
+      sellPrice: 200
+      slot: 25
+      page: 4
+    80:
+      type: item
+      item:
+        material: GOLDEN_HORSE_ARMOR
+        quantity: 1
+      buyPrice: 3000
+      sellPrice: 300
+      slot: 30
+      page: 4
+    81:
+      type: item
+      item:
+        material: DIAMOND_HORSE_ARMOR
+        quantity: 1
+      buyPrice: 10000
+      sellPrice: 1000
+      slot: 31
+      page: 4
+    82:
+      type: item
+      item:
+        material: MINECART
+        quantity: 1
+      buyPrice: 200
+      sellPrice: 20
+      slot: 32
+      page: 4
+    83:
+      type: item
+      item:
+        material: WATER_BUCKET
+        quantity: 1
+      buyPrice: 100
+      sellPrice: 10
+      slot: 33
+      page: 4
+    84:
+      type: item
+      item:
+        material: LAVA_BUCKET
+        quantity: 1
+      buyPrice: 150
+      sellPrice: 20
+      slot: 34
+      page: 4
+    85:
+      type: item
+      item:
+        material: EXPERIENCE_BOTTLE
+        quantity: 16
+      buyPrice: 500
+      sellPrice: 32
+      slot: 39
+      page: 4
+    86:
+      type: item
+      item:
+        material: NAME_TAG
+        quantity: 1
+      buyPrice: 20
+      sellPrice: 5
+      slot: 40
+      page: 4
+    87:
+      type: item
+      item:
+        material: WARPED_FUNGUS_ON_A_STICK
+        quantity: 1
+      buyPrice: 100
+      sellPrice: 20
+      slot: 41
+      page: 4
+    88:
+      type: item
+      item:
+        material: SPYGLASS
+        quantity: 1
+      buyPrice: 100
+      sellPrice: 10
+      slot: 42
+      page: 4
+    89:
+      type: item
+      item:
+        material: FIREWORK_ROCKET
+        quantity: 32
+      buyPrice: 320
+      sellPrice: 32
+      slot: 39
+      page: 2
+    90:
+      type: item
+      item:
+        material: GLOW_INK_SAC
+        quantity: 16
+      buyPrice: 64
+      sellPrice: 16
+      slot: 12
+      page: 2
+    91:
+      type: item
+      item:
+        material: RECOVERY_COMPASS
+        quantity: 1
+      buyPrice: 1000
+      sellPrice: 50
+      slot: 43
+      page: 4

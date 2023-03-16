@@ -1,0 +1,502 @@
+  wood:
+    name: "&2&lSHOP &8&l✦ &7Wood &0(%page%/2)"
+    size: 54
+    buttons:
+      goBack:
+        slot: 18
+      previousPage:
+        slot: 9
+      nextPage:
+        slot: 27
+    fillItem:
+        material: BLACK_STAINED_GLASS_PANE
+        name: " &r " 
+    items:
+      1:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+      2:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+      3:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+      4:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+      5:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+      6:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+      7:
+        type: item
+        item:
+          material: ACACIA_LOG   
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 4
+        slot: 12
+      8:
+        type: item
+        item:
+          material: ACACIA_WOOD      
+          quantity: 1
+        buyPrice: 12
+        sellPrice: 1
+        slot: 13
+      9:
+        type: item
+        item:
+          material: STRIPPED_ACACIA_LOG      
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 1
+        slot: 14
+      10:
+        type: item
+        item:
+          material: STRIPPED_ACACIA_WOOD      
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 15
+      11:
+        type: item
+        item:
+          material: ACACIA_PLANKS     
+          quantity: 1
+        buyPrice: 5
+        sellPrice: 1
+        slot: 16
+      12:
+        type: item
+        item:
+          material: BIRCH_LOG   
+          quantity: 1
+        buyPrice: 8
+        sellPrice: 1
+        slot: 21
+      13:
+        type: item
+        item:
+          material: BIRCH_WOOD      
+          quantity: 1
+        buyPrice: 12
+        sellPrice: 1
+        slot: 22
+      14:
+        type: item
+        item:
+          material: STRIPPED_BIRCH_LOG      
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 1
+        slot: 23
+      15:
+        type: item
+        item:
+          material: STRIPPED_BIRCH_WOOD      
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 24
+      16:
+        type: item
+        item:
+          material: BIRCH_PLANKS     
+          quantity: 1
+        buyPrice: 2
+        sellPrice: 1
+        slot: 25
+      17:
+        type: item
+        item:
+          material: JUNGLE_LOG   
+          quantity: 1
+        buyPrice: 8
+        sellPrice: 1
+        slot: 30
+      18:
+        type: item
+        item:
+          material: JUNGLE_WOOD      
+          quantity: 1
+        buyPrice: 12
+        sellPrice: 1
+        slot: 31
+      19:
+        type: item
+        item:
+          material: STRIPPED_JUNGLE_LOG      
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 1
+        slot: 32
+      20:
+        type: item
+        item:
+          material: STRIPPED_JUNGLE_WOOD      
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 33
+      21:
+        type: item
+        item:
+          material: JUNGLE_PLANKS     
+          quantity: 1
+        buyPrice: 1
+        sellPrice: 1
+        slot: 34
+      22:
+        type: item
+        item:
+          material: SPRUCE_LOG   
+          quantity: 1
+        buyPrice: 8
+        sellPrice: 1
+        slot: 39
+      23:
+        type: item
+        item:
+          material: SPRUCE_WOOD      
+          quantity: 1
+        buyPrice: 12
+        sellPrice: 1
+        slot: 40
+      24:
+        type: item
+        item:
+          material: STRIPPED_SPRUCE_LOG      
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 1
+        slot: 41
+      25:
+        type: item
+        item:
+          material: STRIPPED_SPRUCE_WOOD      
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 42
+      26:
+        type: item
+        item:
+          material: SPRUCE_PLANKS     
+          quantity: 1
+        buyPrice: 1
+        sellPrice: 1
+        slot: 43
+###PAGE:2
+      27:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+        page: 2
+      28:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+        page: 2
+      29:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+        page: 2
+      30:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+        page: 2
+      31:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+        page: 2
+      32:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+        page: 2
+      33:
+        type: item
+        item:
+          material: OAK_LOG   
+          quantity: 1
+        buyPrice: 8
+        sellPrice: 1
+        slot: 12
+        page: 2
+      34:
+        type: item
+        item:
+          material: OAK_WOOD      
+          quantity: 1
+        buyPrice: 12
+        sellPrice: 1
+        slot: 13
+        page: 2
+      35:
+        type: item
+        item:
+          material: STRIPPED_OAK_LOG      
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 1
+        slot: 14
+        page: 2
+      36:
+        type: item
+        item:
+          material: STRIPPED_OAK_WOOD      
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 15
+        page: 2
+      37:
+        type: item
+        item:
+          material: OAK_PLANKS     
+          quantity: 1
+        buyPrice: 1
+        sellPrice: 1
+        slot: 16
+        page: 2
+      38:
+        type: item
+        item:
+          material: DARK_OAK_LOG   
+          quantity: 1
+        buyPrice: 8
+        sellPrice: 1
+        slot: 21
+        page: 2
+      39:
+        type: item
+        item:
+          material: DARK_OAK_WOOD      
+          quantity: 1
+        buyPrice: 12
+        sellPrice: 1
+        slot: 22
+        page: 2
+      40:
+        type: item
+        item:
+          material: STRIPPED_DARK_OAK_LOG      
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 1
+        slot: 23
+        page: 2
+      41:
+        type: item
+        item:
+          material: STRIPPED_DARK_OAK_WOOD      
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 24
+        page: 2
+      42:
+        type: item
+        item:
+          material: DARK_OAK_PLANKS     
+          quantity: 1
+        buyPrice: 1
+        sellPrice: 1
+        slot: 25
+        page: 2
+      43:
+        type: item
+        item:
+          material: CRIMSON_STEM   
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 30
+        page: 2
+      44:
+        type: item
+        item:
+          material: CRIMSON_HYPHAE      
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 31
+        page: 2
+      45:
+        type: item
+        item:
+          material: STRIPPED_CRIMSON_STEM
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 32
+        page: 2
+      46:
+        type: item
+        item:
+          material: STRIPPED_CRIMSON_HYPHAE
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 33
+        page: 2
+      47:
+        type: item
+        item:
+          material: CRIMSON_PLANKS
+          quantity: 1
+        buyPrice: 2
+        sellPrice: 1
+        slot: 34
+        page: 2
+      48:
+        type: item
+        item:
+          material: WARPED_STEM   
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 39
+        page: 2
+      49:
+        type: item
+        item:
+          material: WARPED_HYPHAE      
+          quantity: 1
+        buyPrice: 42
+        sellPrice: 1
+        slot: 40
+        page: 2
+      50:
+        type: item
+        item:
+          material: STRIPPED_WARPED_STEM
+          quantity: 1
+        buyPrice: 17
+        sellPrice: 1
+        slot: 41
+        page: 2
+      51:
+        type: item
+        item:
+          material: STRIPPED_WARPED_HYPHAE
+          quantity: 1
+        buyPrice: 28
+        sellPrice: 1
+        slot: 42
+        page: 2
+      52:
+        type: item
+        item:
+          material: WARPED_PLANKS
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 1
+        slot: 43
+        page: 2
+      53:
+        type: item
+        item:
+          material: MANGROVE_PLANKS
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 1
+        slot: 48
+        page: 1
+      54:
+        type: item
+        item:
+          material: MANGROVE_LOG
+          quantity: 1
+        buyPrice: 17
+        sellPrice: 1
+        slot: 49
+        page: 1
+      55:
+        type: item
+        item:
+          material: MUDDY_MANGROVE_ROOTS
+          quantity: 1
+        buyPrice: 8
+        sellPrice: 1
+        slot: 50
+        page: 1
+      56:
+        type: item
+        item:
+          material: MANGROVE_ROOTS
+          quantity: 1
+        buyPrice: 4
+        sellPrice: 1
+        slot: 51
+        page: 1
+      57:
+        type: item
+        item:
+          material: STRIPPED_MANGROVE_WOOD
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 52
+        page: 1

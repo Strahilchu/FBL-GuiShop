@@ -1,0 +1,588 @@
+  wool:
+    name: "&2&lSHOP &8&l✦ &7Wool &0(%page%/3)"
+    size: 54
+    buttons:
+      goBack:
+        slot: 18
+      previousPage:
+        slot: 9
+      nextPage:
+        slot: 27
+    fillItem:
+        material: BLACK_STAINED_GLASS_PANE
+        name: " &r " 
+    items:
+      1:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+      2:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+      3:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+      4:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+      5:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+      6:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+      7:
+        type: item
+        item:
+          material: RED_WOOL   
+          quantity: 8
+        buyPrice: 64
+        sellPrice: 16
+        slot: 12
+      8:
+        type: item
+        item:
+          material: ORANGE_WOOL      
+          quantity: 8
+        buyPrice: 64
+        sellPrice: 16
+        slot: 13
+      9:
+        type: item
+        item:
+          material: YELLOW_WOOL      
+          quantity: 8
+        buyPrice: 64
+        sellPrice: 16
+        slot: 14
+      10:
+        type: item
+        item:
+          material: GREEN_WOOL      
+          quantity: 8
+        buyPrice: 64
+        sellPrice: 16
+        slot: 15
+      11:
+        type: item
+        item:
+          material: LIME_WOOL     
+          quantity: 8
+        buyPrice: 64
+        sellPrice: 16
+        slot: 16
+      12:
+        type: item
+        item:
+          material: BLUE_WOOL     
+          quantity: 8
+        buyPrice: 64
+        sellPrice: 16
+        slot: 21
+      13:
+        type: item
+        item:
+          material: CYAN_WOOL     
+          quantity: 8
+        buyPrice: 64
+        sellPrice: 16
+        slot: 22
+      14:
+        type: item
+        item:
+          material: LIGHT_BLUE_WOOL      
+          quantity: 8
+        buyPrice: 64
+        sellPrice: 16
+        slot: 23
+      15:
+        type: item
+        item:
+          material: MAGENTA_WOOL     
+          quantity: 8
+        buyPrice: 64
+        sellPrice: 16
+        slot: 24
+      16:
+        type: item
+        item:
+          material: PURPLE_WOOL      
+          quantity: 8
+        buyPrice: 64
+        sellPrice: 16
+        slot: 25
+      17:
+        type: item
+        item:
+          material: PINK_WOOL
+          quantity: 8
+        buyPrice: 64
+        sellPrice: 16
+        slot: 30
+      18:
+        type: item
+        item:
+          material: WHITE_WOOL     
+          quantity: 8
+        buyPrice: 64
+        sellPrice: 16
+        slot: 31
+      19:
+        type: item
+        item:
+          material: LIGHT_GRAY_WOOL    
+          quantity: 8
+        buyPrice: 64
+        sellPrice: 16
+        slot: 32
+      20:
+        type: item
+        item:
+          material: GRAY_WOOL
+          quantity: 8
+        buyPrice: 64
+        sellPrice: 16
+        slot: 33
+      21:
+        type: item
+        item:
+          material: BROWN_WOOL     
+          quantity: 8
+        buyPrice: 64
+        sellPrice: 16
+        slot: 34
+      22:
+        type: item
+        item:
+          material: BLACK_WOOL   
+          quantity: 8
+        buyPrice: 64
+        sellPrice: 16
+        slot: 39
+###PAGE:2
+      23:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+        page: 2
+      24:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+        page: 2
+      25:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+        page: 2
+      26:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+        page: 2
+      27:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+        page: 2
+      28:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+        page: 2
+      29:
+        type: item
+        item:
+          material: RED_CARPET
+          quantity: 8
+        buyPrice: 38.50
+        sellPrice: 2
+        slot: 12
+        page: 2
+      30:
+        type: item
+        item:
+          material: ORANGE_CARPET
+          quantity: 8
+        buyPrice: 38.50
+        sellPrice: 2
+        slot: 13
+        page: 2
+      31:
+        type: item
+        item:
+          material: YELLOW_CARPET
+          quantity: 8
+        buyPrice: 38.50
+        sellPrice: 2
+        slot: 14
+        page: 2
+      32:
+        type: item
+        item:
+          material: GREEN_CARPET
+          quantity: 8
+        buyPrice: 38.50
+        sellPrice: 2
+        slot: 15
+        page: 2
+      33:
+        type: item
+        item:
+          material: LIME_CARPET
+          quantity: 8
+        buyPrice: 38.50
+        sellPrice: 2
+        slot: 16
+        page: 2
+      34:
+        type: item
+        item:
+          material: BLUE_CARPET
+          quantity: 8
+        buyPrice: 38.50
+        sellPrice: 2
+        slot: 21
+        page: 2
+      35:
+        type: item
+        item:
+          material: CYAN_CARPET
+          quantity: 8
+        buyPrice: 38.50
+        sellPrice: 2
+        slot: 22
+        page: 2
+      36:
+        type: item
+        item:
+          material: LIGHT_BLUE_CARPET 
+          quantity: 8
+        buyPrice: 38.50
+        sellPrice: 2
+        slot: 23
+        page: 2
+      37:
+        type: item
+        item:
+          material: MAGENTA_CARPET
+          quantity: 8
+        buyPrice: 38.50
+        sellPrice: 2
+        slot: 24
+        page: 2
+      38:
+        type: item
+        item:
+          material: PURPLE_CARPET    
+          quantity: 8
+        buyPrice: 38.50
+        sellPrice: 2
+        slot: 25
+        page: 2
+      39:
+        type: item
+        item:
+          material: PINK_CARPET
+          quantity: 8
+        buyPrice: 38.50
+        sellPrice: 2
+        slot: 30
+        page: 2
+      40:
+        type: item
+        item:
+          material: WHITE_CARPET
+          quantity: 8
+        buyPrice: 38.50
+        sellPrice: 2
+        slot: 31
+        page: 2
+      42:
+        type: item
+        item:
+          material: LIGHT_GRAY_CARPET
+          quantity: 8
+        buyPrice: 38.50
+        sellPrice: 2
+        slot: 32
+        page: 2
+      43:
+        type: item
+        item:
+          material: GRAY_CARPET
+          quantity: 8
+        buyPrice: 38.50
+        sellPrice: 2
+        slot: 33
+        page: 2
+      44:
+        type: item
+        item:
+          material: BROWN_CARPET
+          quantity: 8
+        buyPrice: 38.50
+        sellPrice: 2
+        slot: 34
+        page: 2
+      45:
+        type: item
+        item:
+          material: BLACK_CARPET
+          quantity: 8
+        buyPrice: 38.50
+        sellPrice: 2
+        slot: 39
+        page: 2
+###PAGE:3
+      46:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+        page: 3
+      47:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+        page: 3
+      48:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+        page: 3
+      49:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+        page: 3
+      50:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+        page: 3
+      51:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+        page: 3
+      52:
+        type: item
+        item:
+          material: RED_BANNER
+          quantity: 8
+        buyPrice: 75.80
+        sellPrice: 16
+        slot: 12
+        page: 3
+      53:
+        type: item
+        item:
+          material: ORANGE_BANNER
+          quantity: 8
+        buyPrice: 75.80
+        sellPrice: 16
+        slot: 13
+        page: 3
+      54:
+        type: item
+        item:
+          material: YELLOW_BANNER
+          quantity: 8
+        buyPrice: 75.80
+        sellPrice: 16
+        slot: 14
+        page: 3
+      55:
+        type: item
+        item:
+          material: GREEN_BANNER
+          quantity: 8
+        buyPrice: 75.80
+        sellPrice: 16
+        slot: 15
+        page: 3
+      56:
+        type: item
+        item:
+          material: LIME_BANNER
+          quantity: 8
+        buyPrice: 75.80
+        sellPrice: 16
+        slot: 16
+        page: 3
+      57:
+        type: item
+        item:
+          material: BLUE_BANNER
+          quantity: 8
+        buyPrice: 75.80
+        sellPrice: 16
+        slot: 21
+        page: 3
+      58:
+        type: item
+        item:
+          material: CYAN_BANNER
+          quantity: 8
+        buyPrice: 75.80
+        sellPrice: 16
+        slot: 22
+        page: 3
+      59:
+        type: item
+        item:
+          material: LIGHT_BLUE_BANNER
+          quantity: 8
+        buyPrice: 75.80
+        sellPrice: 16
+        slot: 23
+        page: 3
+      60:
+        type: item
+        item:
+          material: MAGENTA_BANNER
+          quantity: 8
+        buyPrice: 75.80
+        sellPrice: 16
+        slot: 24
+        page: 3
+      61:
+        type: item
+        item:
+          material: PURPLE_BANNER
+          quantity: 8
+        buyPrice: 75.80
+        sellPrice: 16
+        slot: 25
+        page: 3
+      62:
+        type: item
+        item:
+          material: PINK_BANNER
+          quantity: 8
+        buyPrice: 75.80
+        sellPrice: 16
+        slot: 30
+        page: 3
+      63:
+        type: item
+        item:
+          material: WHITE_BANNER
+          quantity: 8
+        buyPrice: 75.80
+        sellPrice: 16
+        slot: 31
+        page: 3
+      64:
+        type: item
+        item:
+          material: LIGHT_GRAY_BANNER
+          quantity: 8
+        buyPrice: 75.80
+        sellPrice: 16
+        slot: 32
+        page: 3
+      65:
+        type: item
+        item:
+          material: GRAY_BANNER
+          quantity: 8
+        buyPrice: 75.80
+        sellPrice: 16
+        slot: 33
+        page: 3
+      66:
+        type: item
+        item:
+          material: BROWN_BANNER
+          quantity: 8
+        buyPrice: 75.80
+        sellPrice: 16
+        slot: 34
+        page: 3
+      67:
+        type: item
+        item:
+          material: BLACK_BANNER
+          quantity: 8
+        buyPrice: 75.80
+        sellPrice: 16
+        slot: 39
+        page: 3

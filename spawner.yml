@@ -1,0 +1,206 @@
+  spawner:
+    name: "&2&lSHOP &8&l✦ &7Spawner &0(%page%/1)"
+    size: 54
+    buttons:
+      goBack:
+        slot: 18
+      previousPage:
+        slot: 9
+      nextPage:
+        slot: 27
+    fillItem:
+        material: BLACK_STAINED_GLASS_PANE
+        name: " &r " 
+    items:
+      1:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+      2:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+      3:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+      4:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+      5:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+      6:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+      7:
+        type: item
+        item:
+          material: SPAWNER
+          mob: BLAZE    
+          quantity: 1
+        buyPrice: 1000000
+        sellPrice: -1
+        slot: 12
+      8:
+        type: item
+        item:
+          material: SPAWNER
+          mob: CHICKEN    
+          quantity: 1
+        buyPrice: 2000000
+        sellPrice: -1
+        slot: 13
+      9:
+        type: item
+        item:
+          material: SPAWNER
+          mob: COW
+          quantity: 1
+        buyPrice: 2000000
+        sellPrice: -1
+        slot: 14
+      10:
+        type: item
+        item:
+          material: SPAWNER
+          mob: CREEPER  
+          quantity: 1
+        buyPrice: 10000000
+        sellPrice: -1
+        slot: 15
+      11:
+        type: item
+        item:
+          material: SPAWNER
+          mob: ENDERMAN
+          quantity: 1
+        buyPrice: 500000
+        sellPrice: -1
+        slot: 16
+      12:
+        type: item
+        item:
+          material: SPAWNER
+          mob: GHAST
+          quantity: 1
+        buyPrice: 20000000
+        sellPrice: -1
+        slot: 21
+      13:
+        type: item
+        item:
+          material: SPAWNER
+          mob: MAGMA_CUBE 
+          quantity: 1
+        buyPrice: 2000000
+        sellPrice: -1
+        slot: 22
+      14:
+        type: item
+        item:
+          material: SPAWNER
+          mob: PIG 
+          quantity: 1
+        buyPrice: 2000000
+        sellPrice: -1
+        slot: 23
+      15:
+        type: item
+        item:
+          material: SPAWNER
+          mob: SHEEP
+          quantity: 1
+        buyPrice: 2000000
+        sellPrice: -1
+        slot: 24
+      16:
+        type: item
+        item:
+          material: SPAWNER
+          mob: SKELETON
+          quantity: 1
+        buyPrice: 500000
+        sellPrice: -1
+        slot: 25
+      17:
+        type: item
+        item:
+          material: SPAWNER
+          mob: SLIME
+          quantity: 1
+        buyPrice: 30000000
+        sellPrice: -1
+        slot: 30
+      18:
+        type: item
+        item:
+          material: SPAWNER
+          mob: SPIDER
+          quantity: 1
+        buyPrice: 500000
+        sellPrice: -1
+        slot: 31
+      19:
+        type: item
+        item:
+          material: SPAWNER
+          mob: STRAY
+          quantity: 1
+        buyPrice: 10000000
+        sellPrice: -1
+        slot: 32
+      20:
+        type: item
+        item:
+          material: SPAWNER
+          mob: VILLAGER
+          quantity: 1
+        buyPrice: 50000000
+        sellPrice: -1
+        slot: 33
+      21:
+        type: item
+        item:
+          material: SPAWNER
+          mob: WITCH
+          quantity: 1
+        buyPrice: 5000000
+        sellPrice: -1
+        slot: 34
+      22:
+        type: item
+        item:
+          material: SPAWNER
+          mob: ZOMBIE
+          quantity: 1
+        buyPrice: 500000
+        sellPrice: -1
+        slot: 40

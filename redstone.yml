@@ -1,0 +1,592 @@
+  redstone:
+    name: "&2&lSHOP &8&l✦ &7Redstone &0(%page%/3)"
+    buttons:
+      goBack:
+        slot: 18
+      previousPage:
+        slot: 9
+      nextPage:
+        slot: 27
+    fillItem:
+        material: BLACK_STAINED_GLASS_PANE
+        name: " &r " 
+    items:
+      1:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+      2:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+      3:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+      4:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+      5:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+      6:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+      7:
+        type: item
+        item:
+          material: HOPPER
+          quantity: 1
+        buyPrice: 152
+        sellPrice: 10
+        slot: 12
+      8:
+        type: item
+        item:
+          material: REDSTONE_TORCH
+          quantity: 1
+        buyPrice: 75
+        sellPrice: 4
+        slot: 13
+      9:
+        type: item
+        item:
+          material: REDSTONE_BLOCK
+          quantity: 1
+        buyPrice: 500
+        sellPrice: 25
+        slot: 14
+      10:
+        type: item
+        item:
+          material: REDSTONE
+          quantity: 16
+        buyPrice: 300
+        sellPrice: 32
+        slot: 15
+      11:
+        type: item
+        item:
+          material: REDSTONE_LAMP 
+          quantity: 1
+        buyPrice: 60
+        sellPrice: 5
+        slot: 16
+      12:
+        type: item
+        item:
+          material: DAYLIGHT_DETECTOR   
+          quantity: 1
+        buyPrice: 40
+        sellPrice: 5
+        slot: 21
+      13:
+        type: item
+        item:
+          material: COMPARATOR  
+          quantity: 1
+        buyPrice: 125
+        sellPrice: 5
+        slot: 22
+      14:
+        type: item
+        item:
+          material: REPEATER  
+          quantity: 1
+        buyPrice: 175
+        sellPrice: 5
+        slot: 23
+      15:
+        type: item
+        item:
+          material: PISTON      
+          quantity: 1
+        buyPrice: 350
+        sellPrice: 6
+        slot: 24
+      16:
+        type: item
+        item:
+          material: STICKY_PISTON     
+          quantity: 1
+        buyPrice: 400
+        sellPrice: 8
+        slot: 25
+      17:
+        type: item
+        item:
+          material: DISPENSER       
+          quantity: 1
+        buyPrice: 200
+        sellPrice: 6
+        slot: 30
+      18:
+        type: item
+        item:
+          material: DROPPER       
+          quantity: 1
+        buyPrice: 65
+        sellPrice: 6
+        slot: 31
+      19:
+        type: item
+        item:
+          material: RAIL          
+          quantity: 1
+        buyPrice: 35
+        sellPrice: 4
+        slot: 32
+      20:
+        type: item
+        item:
+          material: DETECTOR_RAIL       
+          quantity: 1
+        buyPrice: 37
+        sellPrice: 4
+        slot: 33
+      21:
+        type: item
+        item:
+          material: POWERED_RAIL            
+          quantity: 1
+        buyPrice: 72
+        sellPrice: 4
+        slot: 34
+      22:
+        type: item
+        item:
+          material: ACTIVATOR_RAIL            
+          quantity: 1
+        buyPrice: 55
+        sellPrice: 4
+        slot: 39
+      23:
+        type: item
+        item:
+          material: OBSERVER            
+          quantity: 1
+        buyPrice: 82
+        sellPrice: 5
+        slot: 40
+      24:
+        type: item
+        item:
+          material: CHEST_MINECART          
+          quantity: 1
+        buyPrice: 187
+        sellPrice: 6
+        slot: 41
+      25:
+        type: item
+        item:
+          material: MINECART           
+          quantity: 1
+        buyPrice: 165
+        sellPrice: 6
+        slot: 42
+      26:
+        type: item
+        item:
+          material: FURNACE_MINECART           
+          quantity: 1
+        buyPrice: 200
+        sellPrice: 6
+        slot: 43
+###PAGE:2
+      27:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+        page: 2
+      28:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+        page: 2
+      29:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+        page: 2
+      30:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+        page: 2
+      31:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+        page: 2
+      32:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+        page: 2
+      33:
+        type: item
+        item:
+          material: HOPPER_MINECART           
+          quantity: 1
+        buyPrice: 175
+        sellPrice: 10
+        slot: 12
+        page: 2
+      34:
+        type: item
+        item:
+          material: TNT_MINECART           
+          quantity: 1
+        buyPrice: 475
+        sellPrice: 10
+        slot: 13
+        page: 2
+      35:
+        type: item
+        item:
+          material: JUKEBOX           
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 5
+        slot: 14
+        page: 2
+      36:
+        type: item
+        item:
+          material: TRIPWIRE_HOOK           
+          quantity: 1
+        buyPrice: 12
+        sellPrice: 2
+        slot: 15
+        page: 2
+      37:
+        type: item
+        item:
+          material: NOTE_BLOCK           
+          quantity: 1
+        buyPrice: 86
+        sellPrice: 4
+        slot: 16
+        page: 2
+      38:
+        type: item
+        item:
+          material: LEVER           
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 21
+        page: 2
+      39:
+        type: item
+        item:
+          material: STRING           
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 22
+        page: 2
+      40:
+        type: item
+        item:
+          material: TNT           
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 3
+        slot: 23
+        page: 2
+      41:
+        type: item
+        item:
+          material: IRON_TRAPDOOR           
+          quantity: 1
+        buyPrice: 275
+        sellPrice: 6
+        slot: 24
+        page: 2
+      42:
+        type: item
+        item:
+          material: TRAPPED_CHEST           
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 2
+        slot: 25
+        page: 2
+      43:
+        type: item
+        item:
+          material: CHEST           
+          quantity: 1
+        buyPrice: 17
+        sellPrice: 3
+        slot: 30
+        page: 2
+      44:
+        type: item
+        item:
+          material: ACACIA_PRESSURE_PLATE           
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 1
+        slot: 31
+        page: 2
+      45:
+        type: item
+        item:
+          material: BIRCH_PRESSURE_PLATE           
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 1
+        slot: 32
+        page: 2
+      46:
+        type: item
+        item:
+          material: SPRUCE_PRESSURE_PLATE           
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 1
+        slot: 33
+        page: 2
+      47:
+        type: item
+        item:
+          material: DARK_OAK_PRESSURE_PLATE           
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 1
+        slot: 34
+        page: 2
+      48:
+        type: item
+        item:
+          material: OAK_PRESSURE_PLATE           
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 1
+        slot: 39
+        page: 2
+      49:
+        type: item
+        item:
+          material: JUNGLE_PRESSURE_PLATE           
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 1
+        slot: 40
+        page: 2
+      50:
+        type: item
+        item:
+          material: STONE_PRESSURE_PLATE           
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 41
+        page: 2
+      51:
+        type: item
+        item:
+          material: LIGHT_WEIGHTED_PRESSURE_PLATE           
+          quantity: 1
+        buyPrice: 12
+        sellPrice: 1
+        slot: 42
+        page: 2
+      52:
+        type: item
+        item:
+          material: HEAVY_WEIGHTED_PRESSURE_PLATE           
+          quantity: 1
+        buyPrice: 12
+        sellPrice: 1
+        slot: 43
+        page: 2
+###PAGE:3
+      53:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+        page: 3
+      54:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+        page: 3
+      55:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+        page: 3
+      56:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+        page: 3
+      57:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+        page: 3
+      58:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+        page: 3
+      59:
+        type: item
+        item:
+          material: ACACIA_BUTTON           
+          quantity: 1
+        buyPrice: 5
+        sellPrice: 1
+        slot: 12
+        page: 3
+      60:
+        type: item
+        item:
+          material: BIRCH_BUTTON           
+          quantity: 1
+        buyPrice: 5
+        sellPrice: 1
+        slot: 13
+        page: 3
+      61:
+        type: item
+        item:
+          material: DARK_OAK_BUTTON           
+          quantity: 1
+        buyPrice: 5
+        sellPrice: 1
+        slot: 14
+        page: 3
+      62:
+        type: item
+        item:
+          material: OAK_BUTTON         
+          quantity: 1
+        buyPrice: 5
+        sellPrice: 1
+        slot: 15
+        page: 3
+      63:
+        type: item
+        item:
+          material: JUNGLE_BUTTON     
+          quantity: 1
+        buyPrice: 5
+        sellPrice: 1
+        slot: 16
+        page: 3
+      64:
+        type: item
+        item:
+          material: STONE_BUTTON           
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 1
+        slot: 21
+        page: 3
+      65:
+        type: item
+        item:
+          material: BELL
+          quantity: 1
+        buyPrice: 87
+        sellPrice: 10
+        slot: 22
+        page: 3
+      66:
+        type: item
+        item:
+          material: TARGET
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 4
+        slot: 23
+        page: 3
+      68:
+        type: item
+        item:
+          material: LIGHTNING_ROD           
+          quantity: 1
+        buyPrice: 92
+        sellPrice: 6
+        slot: 25
+        page: 3

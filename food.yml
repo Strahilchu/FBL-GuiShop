@@ -1,0 +1,277 @@
+  food:
+    name: "&2&lSHOP &8&l✦ &7Food &0(%page%/1)"
+    buttons:
+      goBack:
+        slot: 18
+      previousPage:
+        slot: 9
+      nextPage:
+        slot: 27
+    fillItem:
+        material: BLACK_STAINED_GLASS_PANE
+        name: " &r " 
+    items:
+      1:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 1
+      2:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 10
+      3:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 19
+      4:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 28
+      5:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 37
+      6:
+        type: DUMMY
+        item:
+          material: LIME_STAINED_GLASS_PANE
+          name: " &r "
+          lore: []
+          quantity: 1
+        slot: 46
+      7:
+        type: item
+        item:
+          material: BEEF
+          quantity: 8
+        buyPrice: 27
+        sellPrice: 16
+        slot: 12
+      8:
+        type: item
+        item:
+          material: CHICKEN
+          quantity: 8
+        buyPrice: 32
+        sellPrice: 16
+        slot: 13
+      9:
+        type: item
+        item:
+          material: COD
+          quantity: 8
+        buyPrice: 32
+        sellPrice: 16
+        slot: 14
+      10:
+        type: item
+        item:
+          material: MUTTON
+          quantity: 8
+        buyPrice: 32
+        sellPrice: 16
+        slot: 15
+      11:
+        type: item
+        item:
+          material: PORKCHOP
+          quantity: 8
+        buyPrice: 32
+        sellPrice: 16
+        slot: 16
+      12:
+        type: item
+        item:
+          material: RABBIT
+          quantity: 8
+        buyPrice: 32
+        sellPrice: 16
+        slot: 22
+      13:
+        type: item
+        item:
+          material: SALMON
+          quantity: 8
+        buyPrice: 32
+        sellPrice: 16
+        slot: 23
+      14:
+        type: item
+        item:
+          material: COOKED_SALMON
+          quantity: 4
+        buyPrice: 64
+        sellPrice: 24
+        slot: 24
+      15:
+        type: item
+        item:
+          material: COOKED_RABBIT
+          quantity: 4
+        buyPrice: 64
+        sellPrice: 24
+        slot: 25
+      16:
+        type: item
+        item:
+          material: COOKED_PORKCHOP
+          quantity: 4
+        buyPrice: 64
+        sellPrice: 24
+        slot: 30
+      17:
+        type: item
+        item:
+          material: COOKED_MUTTON
+          quantity: 4
+        buyPrice: 64
+        sellPrice: 24
+        slot: 31
+      18:
+        type: item
+        item:
+          material: COOKED_COD
+          quantity: 4
+        buyPrice: 64
+        sellPrice: 24
+        slot: 32
+      19:
+        type: item
+        item:
+          material: COOKED_CHICKEN 
+          quantity: 4
+        buyPrice: 64
+        sellPrice: 24
+        slot: 33
+      20:
+        type: item
+        item:
+          material: COOKED_BEEF
+          quantity: 4
+        buyPrice: 64
+        sellPrice: 24
+        slot: 34
+      21:
+        type: item
+        item:
+          material: RABBIT_STEW
+          quantity: 1
+        buyPrice: 64
+        sellPrice: 4
+        slot: 21
+      22:
+        type: item
+        item:
+          material: MILK_BUCKET
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 3
+        slot: 53
+      23:
+        type: item
+        item:
+          material: PUMPKIN_PIE
+          quantity: 4
+        buyPrice: 32
+        sellPrice: 12
+        slot: 40
+      24:
+        type: item
+        item:
+          material: CAKE
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 50
+        slot: 41
+      25:
+        type: item
+        item:
+          material: COOKIE
+          quantity: 16
+        buyPrice: 36
+        sellPrice: 32
+        slot: 42
+      26:
+        type: item
+        item:
+          material: APPLE
+          quantity: 4
+        buyPrice: 12
+        sellPrice: 8
+        slot: 48
+      27:
+        type: item
+        item:
+          material: GOLDEN_APPLE
+          quantity: 1
+        buyPrice: 200
+        sellPrice: 100
+        slot: 49
+      28:
+        type: item
+        item:
+          material: BAKED_POTATO
+          quantity: 4
+        buyPrice: 48
+        sellPrice: 16
+        slot: 43
+      29:
+        type: item
+        item:
+          material: POTATO
+          quantity: 8
+        buyPrice: 32
+        sellPrice: 16
+        slot: 52
+      30:
+        type: item
+        item:
+          material: CARROT
+          quantity: 8
+        buyPrice: 32
+        sellPrice: 16
+        slot: 50
+      31:
+        type: item
+        item:
+          material: GOLDEN_CARROT
+          quantity: 1
+        buyPrice: 60
+        sellPrice: 4
+        slot: 51
+      32:
+        type: item
+        item:
+          material: ENCHANTED_GOLDEN_APPLE
+          quantity: 1
+        buyPrice: 5000
+        sellPrice: 500
+        slot: 39
+      33:
+        type: item
+        item:
+          material: MUSHROOM_STEW
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 10
+        slot: 26
