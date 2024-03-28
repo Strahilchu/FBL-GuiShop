@@ -66,7 +66,7 @@
           material: COAL_BLOCK
           quantity: 1
         buyPrice: 40
-        sellPrice: 45
+        sellPrice: 30
         slot: 12
       8:
         type: item
@@ -74,7 +74,7 @@
           material: COAL
           quantity: 9
         buyPrice: 40
-        sellPrice: 45
+        sellPrice: 30
         slot: 21
       9:
         type: item

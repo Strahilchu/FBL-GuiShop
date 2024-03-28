@@ -201,15 +201,15 @@
           material: SAND
           quantity: 1
         buyPrice: 2
-        sellPrice: 2
+        sellPrice: 1
         slot: 41
       25:
         type: item
         item:
           material: RED_SAND
           quantity: 1
-        buyPrice: 4
-        sellPrice: 4
+        buyPrice: 2
+        sellPrice: 1
         slot: 42
       26:
         type: item
@@ -343,7 +343,7 @@
           material: SOUL_SAND
           quantity: 1
         buyPrice: 10
-        sellPrice: 6
+        sellPrice: 2
         slot: 23
         page: 2
       400:
@@ -352,7 +352,7 @@
           material: SOUL_SOIL
           quantity: 1
         buyPrice: 10
-        sellPrice: 6
+        sellPrice: 2
         slot: 5
         page: 2
       41:
@@ -1661,3 +1661,19 @@
         sellPrice: 4
         slot: 25
         page: 7
+      186:
+        type: item
+        item:
+          material: SUSPICIOUS_SAND
+          quantity: 1
+        buyPrice: 4
+        sellPrice: 1
+        slot: 29
+      187:
+        type: item
+        item:
+          material: SUSPICIOUS_GRAVEL
+          quantity: 1
+        buyPrice: 4
+        sellPrice: 1
+        slot: 38

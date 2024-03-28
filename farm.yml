@@ -1133,3 +1133,51 @@
         sellPrice: 8
         slot: 48
         page: 1
+      129:
+        type: item
+        item:
+          material: CHERRY_SAPLING
+          quantity: 8
+        buyPrice: 80
+        sellPrice: -1
+        slot: 49
+      130:
+        type: item
+        item:
+          material: PINK_PETALS
+          quantity: 1
+        buyPrice: 10
+        sellPrice: -1
+        slot: 50
+      131:
+        type: item
+        item:
+          material: PITCHER_PLANT
+          quantity: 1
+        buyPrice: 100
+        sellPrice: -1
+        slot: 51
+      132:
+        type: item
+        item:
+          material: TORCHFLOWER_SEEDS
+          quantity: 1
+        buyPrice: 10
+        sellPrice: -1
+        slot: 52
+      133:
+        type: item
+        item:
+          material: WARPED_FUNGUS
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 3
+      134:
+        type: item
+        item:
+          material: CRIMSON_FUNGUS
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 4

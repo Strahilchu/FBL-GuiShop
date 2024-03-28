@@ -72,8 +72,8 @@
         item:
           material: ENCHANTING_TABLE
           quantity: 1
-        buyPrice: 5000
-        sellPrice: 1000
+        buyPrice: 1000
+        sellPrice: 300
         slot: 13
       9:
         type: item
@@ -453,4 +453,38 @@
         buyPrice: 12
         sellPrice: 1
         slot: 16
+        page: 2
+      51:
+        type: item
+        item:
+          material: CHISELED_BOOKSHELF 
+          quantity: 4
+        buyPrice: 100
+        sellPrice: 10
+        slot: 3
+      52:
+        type: item
+        item:
+          material: GRINDSTONE
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 10
+        slot: 4
+      53:
+        type: item
+        item:
+          material: MUSIC_DISC_CAT
+          quantity: 1
+        buyPrice: 64
+        sellPrice: 32
+        slot: 3
+        page: 2
+      54:
+        type: item
+        item:
+          material: MUSIC_DISC_13
+          quantity: 1
+        buyPrice: 64
+        sellPrice: 32
+        slot: 4
         page: 2

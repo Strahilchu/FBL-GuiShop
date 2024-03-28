@@ -275,3 +275,11 @@
         buyPrice: 20
         sellPrice: 10
         slot: 26
+      34:
+        type: item
+        item:
+          material: PUFFERFISH
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 10
+        slot: 17

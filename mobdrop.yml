@@ -98,7 +98,7 @@
           material: STRING
           quantity: 16
         buyPrice: 32
-        sellPrice: 18
+        sellPrice: 8
         slot: 16
       12:
         type: item
@@ -106,7 +106,7 @@
           material: ARROW 
           quantity: 16
         buyPrice: 64
-        sellPrice: 36
+        sellPrice: 8
         slot: 21
       13:
         type: item
@@ -114,7 +114,7 @@
           material: BONE  
           quantity: 4
         buyPrice: 12
-        sellPrice: 10
+        sellPrice: 4
         slot: 22
       14:
         type: item
@@ -390,5 +390,14 @@
           quantity: 1
         buyPrice: 200
         sellPrice: 10
+        slot: 32
+        page: 2
+      46:
+        type: item
+        item:
+          material: SNOWBALL
+          quantity: 16
+        buyPrice: 32
+        sellPrice: 1
         slot: 32
         page: 2

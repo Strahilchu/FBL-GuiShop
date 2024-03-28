@@ -590,3 +590,12 @@
         sellPrice: 6
         slot: 25
         page: 3
+      69:
+        type: item
+        item:
+          material: GLOWSTONE_DUST
+          quantity: 64
+        buyPrice: 200
+        sellPrice: 180
+        slot: 24
+        page: 3
